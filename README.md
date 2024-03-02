@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrei Bălaș
 ====================================================================================================================================
 
-👨🏼‍🎓 I am student at Technical University of Cluj-Napoca, studying Computer Science.
+👨🏼‍🎓 Student at Technical University of Cluj-Napoca, studying Computer Science.
 ----------------------------------------------------------------------------------
 
 ✌️ I am keen on working on things that help me grow and improve myself in the domains that I am passionate about. I want to learn new things from every experience I get, so my priority is to learn new things in IT and apply those things.
